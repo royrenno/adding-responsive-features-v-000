@@ -16,9 +16,9 @@
     }
 }
 
-@@media only screen and (max-width: 900px){
+@@media only screen and (max-width: 900px) {
 
-  body{
+  body {
     font-size: 85%;
   }
 
@@ -79,7 +79,7 @@
     display: none;
   }
 
-  #navbar nav a.menu-icon{
+  #navbar nav a.menu-icon {
     display: block;
     float: right;
     font-size: 1.5em;
@@ -94,12 +94,12 @@
   #social {
     top: 60px;
   }
-  
+
 }
 
 @@media only screen and ( max-width: 495px) {
 
-  #logo h2 { 
+  #logo h2 {
     visibility: hidden;
   }
 }
